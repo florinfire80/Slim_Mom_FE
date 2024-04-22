@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Frontend for final individual project",
   "private": true,
-  "homepage": "https://florinfire80.github.io/Slim_Mom_frontend/",
+  "homepage": "https://florinfire80.github.io/Slim_Mom_FE/",
   "dependencies": {
     "@hookform/error-message": "^2.0.0",
     "@reduxjs/toolkit": "^1.8.5",
